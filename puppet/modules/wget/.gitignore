@@ -1,0 +1,6 @@
+/.project
+/pkg
+/metadata.json
+/.rvmrc
+/spec/fixtures/modules/
+/.rspec_system/

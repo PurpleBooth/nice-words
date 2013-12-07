@@ -1,0 +1,2 @@
+module NiceMessagesHelper
+end
